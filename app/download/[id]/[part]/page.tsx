@@ -195,7 +195,7 @@ export default function DownloadPage({ params }: DownloadPageProps) {
               {/* Action Buttons */}
               <div className="flex flex-col sm:flex-row gap-6">
                 <button
-                  className="flex-1 h-14 rounded-full bg-[#e0e5ec] text-[#5b6baa] font-semibold flex items-center justify-center gap-2 shadow-[8px_8px_16px_#b8bec5,-8px_-8px_16px_#ffffff] hover:shadow-[4px_4px_8px_#b8bec5,-4px_-4px_8px_#ffffff] active:shadow-[inset_4px_4px_8px_#b8bec5,inset_-4px_-4px_8px_#ffffff] transition-all duration-300"
+                  className="border-2 border-green-500 flex-1 h-14 rounded-full bg-[#e0e5ec] text-[#5b6baa] font-semibold flex items-center justify-center gap-2 shadow-[8px_8px_16px_#b8bec5,-8px_-8px_16px_#ffffff] hover:shadow-[4px_4px_8px_#b8bec5,-4px_-4px_8px_#ffffff] active:shadow-[inset_4px_4px_8px_#b8bec5,inset_-4px_-4px_8px_#ffffff] transition-all duration-300"
                   onClick={() => window.open(part.link, "_blank")}
                 >
                   <Download className="w-5 h-5 text-green-500" />
