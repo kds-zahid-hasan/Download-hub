@@ -1,0 +1,632 @@
+{
+  "categories": [
+    {
+      "id": "general",
+      "name": "General Programs",
+      "nameFa": "برنامه‌های عمومی",
+      "description": "Essential software for everyday computing needs",
+      "descriptionFa": "نرم‌افزارهای ضروری برای نیازهای روزمره کامپیوتر"
+    },
+    {
+      "id": "multimedia",
+      "name": "Multimedia",
+      "nameFa": "چندرسانه‌ای",
+      "description": "Audio, video, and media editing software",
+      "descriptionFa": "نرم‌افزارهای ویرایش صوت، تصویر و رسانه"
+    },
+    {
+      "id": "development",
+      "name": "Development",
+      "nameFa": "برنامه‌نویسی",
+      "description": "Programming tools and development environments",
+      "descriptionFa": "ابزارهای برنامه‌نویسی و محیط‌های توسعه"
+    },
+    {
+      "id": "system",
+      "name": "System Tools",
+      "nameFa": "ابزارهای سیستم",
+      "description": "System utilities and maintenance tools",
+      "descriptionFa": "ابزارهای سیستمی و نگهداری"
+    },
+    {
+      "id": "graphic",
+      "name": "Graphic Design",
+      "nameFa": "طراحی گرافیک",
+      "description": "Image editing and graphic design software",
+      "descriptionFa": "نرم‌افزارهای ویرایش تصویر و طراحی گرافیک"
+    },
+    {
+      "id": "security",
+      "name": "Security & Antivirus",
+      "nameFa": "امنیت و آنتی‌ویروس",
+      "description": "Antivirus and security protection software",
+      "descriptionFa": "نرم‌افزارهای آنتی‌ویروس و حفاظت امنیتی"
+    },
+    {
+      "id": "office",
+      "name": "Office & Productivity",
+      "nameFa": "اداری و بهره‌وری",
+      "description": "Office suites and productivity applications",
+      "descriptionFa": "مجموعه‌های اداری و برنامه‌های بهره‌وری"
+    },
+    {
+      "id": "utilities",
+      "name": "Utilities",
+      "nameFa": "ابزارها",
+      "description": "Useful utilities and helper applications",
+      "descriptionFa": "ابزارهای مفید و برنامه‌های کمکی"
+    },
+    {
+      "id": "browsers",
+      "name": "Web Browsers",
+      "nameFa": "مرورگرهای وب",
+      "description": "Web browsers for internet browsing",
+      "descriptionFa": "مرورگرهای وب برای گشت و گذار در اینترنت"
+    }
+  ],
+  "software": [
+    {
+      "id": "adobe-photoshop-2025",
+      "name": "Adobe Photoshop 2025",
+      "fullName": "Adobe Photoshop 2025 v26.7.0.15 Win/macOS + Portable",
+      "version": "26.7.0.15",
+      "category": "graphic",
+      "description": "Adobe Photoshop is the world's most popular and powerful image editing software used by professionals and enthusiasts alike.",
+      "descriptionFa": "Adobe Photoshop محبوب‌ترین و یکی از بهترین نرم‌افزارهای ویرایش تصاویر است و کمتر کسی وجود دارد که نام آن را نشنیده باشد و طراح گرافیکی است که با آن آشنا نباشد. نسخه‌های اولیه فتوشاپ برای سیستم عامل مکینتاش طراحی شده بود و اولین نسخه‌ی طراحی‌شده برای ویندوز به‌عنوان نسخه 2.5 در اوایل سال 1992 منتشر شد.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/250px-Adobe_Photoshop_CC_icon.svg.png",
+      "downloadLink": "#",
+      "requirements": "Windows 10/11 (64-bit), macOS 10.15 or later",
+      "tags": ["photo editing", "graphic design", "adobe", "professional"],
+      "featured": true,
+      "rating": 4.9,
+      "downloads": 1404021,
+      "language": "Multilingual",
+      "detailedDescription": "Adobe Photoshop 2025 is the latest version of the industry-standard image editing software. This version includes new AI-powered features, enhanced performance, and improved user interface. The software supports advanced photo manipulation, digital painting, and graphic design workflows.",
+      "softwareInformation": {
+        "developer": "Adobe Inc.",
+        "license": "Commercial",
+        "architecture": "64-bit",
+        "fileFormat": "ZIP",
+        "fileSize": "8.36 GB",
+        "releaseDate": "2024-12-15"
+      },
+      "downloadVersions": [
+        {
+          "name": "Adobe Photoshop 2025 v26.7.0.15 Multilingual x64",
+          "parts": [
+            { "part": 1, "size": "1 GB", "link": "https://www.zahidhasan.com.bd/" },
+            { "part": 2, "size": "1 GB", "link": "#" },
+            { "part": 3, "size": "1 GB", "link": "#" },
+            { "part": 4, "size": "1 GB", "link": "#" },
+            { "part": 5, "size": "821 MB", "link": "#" }
+          ]
+        },
+        {
+          "name": "Adobe Photoshop 2025 v26.3.0.156 Multilingual x64 (tested)",
+          "parts": [
+            { "part": 1, "size": "1 GB", "link": "#" },
+            { "part": 2, "size": "1 GB", "link": "#" },
+            { "part": 3, "size": "1 GB", "link": "#" },
+            { "part": 4, "size": "1 GB", "link": "#" },
+            { "part": 5, "size": "361 MB", "link": "#" }
+          ]
+        },
+        {
+          "name": "Adobe Photoshop 2025 v26.0 Multilingual Portable x64",
+          "parts": [
+            { "part": 1, "size": "2 GB", "link": "#" },
+            { "part": 2, "size": "2 GB", "link": "#" },
+            { "part": 3, "size": "2 GB", "link": "#" },
+            { "part": 4, "size": "0.99 GB", "link": "#" }
+          ]
+        },
+        {
+          "name": "Adobe Photoshop 2025 v26.0 Multilingual macOS (Intel)",
+          "parts": [
+            { "part": 1, "size": "3 GB", "link": "#" },
+            { "part": 2, "size": "3 GB", "link": "#" },
+            { "part": 3, "size": "3 GB", "link": "#" },
+            { "part": 4, "size": "132 MB", "link": "#" }
+          ]
+        }
+      ],
+      "features": [
+        "AI-powered content-aware fill and object selection",
+        "Advanced layer management and blending modes",
+        "Professional color correction and grading tools",
+        "Extensive brush and painting capabilities",
+        "3D design and rendering features",
+        "Cloud sync and collaboration tools",
+        "Support for RAW image formats",
+        "Automated batch processing"
+      ],
+      "systemRequirements": {
+        "windows": {
+          "os": "Windows 10 (64-bit) version 1903 or later",
+          "processor": "Intel or AMD processor with 64-bit support; 2 GHz or faster",
+          "memory": "8 GB RAM (16 GB recommended)",
+          "storage": "4 GB available hard-disk space",
+          "graphics": "DirectX 12 compatible graphics card",
+          "display": "1280 x 800 display (1920 x 1080 recommended)"
+        }
+      },
+      "changelog": [
+        "New AI-powered sky replacement feature",
+        "Improved performance on Apple Silicon Macs",
+        "Enhanced Neural Filters with new artistic effects",
+        "Better integration with Creative Cloud libraries",
+        "Updated Camera Raw with support for new camera models"
+      ]
+    },
+    {
+      "id": "idm",
+      "name": "Internet Download Manager",
+      "fullName": "Internet Download Manager (IDM) 6.42 Build 39 + Portable",
+      "version": "6.42",
+      "category": "general",
+      "description": "Internet Download Manager (IDM) is a tool to increase download speeds by up to 5 times, resume and schedule downloads.",
+      "descriptionFa": "اینترنت دانلود منیجر ابزاری برای افزایش سرعت دانلود تا 5 برابر، از سرگیری و زمان‌بندی دانلودها است. این نرم‌افزار قابلیت‌های پیشرفته‌ای برای مدیریت دانلودها ارائه می‌دهد و با تمامی مرورگرهای محبوب سازگار است.",
+      "image": "https://img.utdstc.com/icon/2b6/7d8/2b67d8d47efc520e4f344d41cf59eb0344846f0c93fd5cf2b7d0d4914e22dd2d:100",
+      "downloadLink": "#",
+      "requirements": "Windows 7/8/10/11",
+      "tags": ["download manager", "internet", "speed"],
+      "featured": true,
+      "rating": 4.8,
+      "downloads": 125000,
+      "language": "Multilingual",
+      "detailedDescription": "Internet Download Manager (IDM) is a comprehensive download accelerator and manager that can increase download speeds by up to 5 times. It features intelligent dynamic file segmentation and safe multipart downloading technology to accelerate your downloads.",
+      "softwareInformation": {
+        "developer": "Tonec Inc.",
+        "license": "Shareware",
+        "architecture": "32/64-bit",
+        "fileFormat": "EXE",
+        "fileSize": "8.5 MB",
+        "releaseDate": "2024-11-20"
+      },
+      "downloadVersions": [
+        {
+          "name": "Internet Download Manager 6.42 Build 39 + Patch",
+          "parts": [{ "part": 1, "size": "8.5 MB", "link": "#" }]
+        },
+        {
+          "name": "Internet Download Manager 6.42 Build 39 Portable",
+          "parts": [{ "part": 1, "size": "12.3 MB", "link": "#" }]
+        },
+        {
+          "name": "Internet Download Manager 6.41 Build 15 + Patch",
+          "parts": [{ "part": 1, "size": "8.2 MB", "link": "#" }]
+        }
+      ],
+      "features": [
+        "Download speed acceleration up to 5x",
+        "Resume and schedule downloads",
+        "Browser integration for all popular browsers",
+        "Drag and drop functionality",
+        "Download categories and file organization",
+        "Built-in download accelerator",
+        "Automatic antivirus checking",
+        "Advanced download queue management"
+      ],
+      "systemRequirements": {
+        "windows": {
+          "os": "Windows 7/8/10/11",
+          "processor": "Intel Pentium 4 or AMD equivalent",
+          "memory": "512 MB RAM",
+          "storage": "20 MB available hard-disk space",
+          "graphics": "Any graphics card",
+          "display": "1024 x 768 display"
+        }
+      },
+      "changelog": [
+        "Fixed compatibility issues with latest Chrome versions",
+        "Improved download speed optimization",
+        "Enhanced browser integration",
+        "Bug fixes and stability improvements"
+      ]
+    },
+    {
+      "id": "visual-studio-code",
+      "name": "Visual Studio Code",
+      "fullName": "Visual Studio Code 1.95.3 + Portable",
+      "version": "1.95.3",
+      "category": "development",
+      "description": "Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.",
+      "descriptionFa": "ویژوال استودیو کد یک ویرایشگر کد منبع قدرتمند و سبک است که بر روی دسکتاپ شما اجرا می‌شود و برای ویندوز، مک و لینوکس در دسترس است. این نرم‌افزار رایگان و متن‌باز است و توسط مایکروسافت توسعه یافته است.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/250px-Visual_Studio_Code_1.35_icon.svg.png",
+      "downloadLink": "#",
+      "requirements": "Windows 8.1/10/11, macOS 10.15+, Linux",
+      "tags": ["code editor", "development", "microsoft", "free"],
+      "featured": true,
+      "rating": 4.9,
+      "downloads": 2850000,
+      "language": "Multilingual",
+      "detailedDescription": "Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.",
+      "softwareInformation": {
+        "developer": "Microsoft Corporation",
+        "license": "MIT License",
+        "architecture": "64-bit",
+        "fileFormat": "EXE/DMG/DEB",
+        "fileSize": "95.2 MB",
+        "releaseDate": "2024-11-15"
+      },
+      "downloadVersions": [
+        {
+          "name": "Visual Studio Code 1.95.3 Windows x64",
+          "parts": [{ "part": 1, "size": "95.2 MB", "link": "#" }]
+        },
+        {
+          "name": "Visual Studio Code 1.95.3 Portable",
+          "parts": [{ "part": 1, "size": "142.8 MB", "link": "#" }]
+        },
+        {
+          "name": "Visual Studio Code 1.95.3 macOS Universal",
+          "parts": [{ "part": 1, "size": "156.4 MB", "link": "#" }]
+        }
+      ],
+      "features": [
+        "IntelliSense code completion",
+        "Built-in Git integration",
+        "Debugging support",
+        "Extensive extension marketplace",
+        "Integrated terminal",
+        "Multi-cursor editing",
+        "Syntax highlighting for 200+ languages",
+        "Live Share collaboration"
+      ],
+      "systemRequirements": {
+        "windows": {
+          "os": "Windows 8.1 or Windows 10/11",
+          "processor": "1.6 GHz or faster processor",
+          "memory": "1 GB RAM",
+          "storage": "200 MB available space",
+          "graphics": "DirectX 9-capable video card",
+          "display": "1024 x 768 screen resolution"
+        }
+      },
+      "changelog": [
+        "Improved TypeScript and JavaScript support",
+        "Enhanced debugging capabilities",
+        "New extension management features",
+        "Performance improvements",
+        "Updated themes and icons"
+      ]
+    },
+    {
+      "id": "google-chrome",
+      "name": "Google Chrome",
+      "fullName": "Google Chrome 131.0.6778.86 Stable + Portable",
+      "version": "131.0.6778.86",
+      "category": "browsers",
+      "description": "Google Chrome is a cross-platform web browser developed by Google. It was first released in 2008 for Microsoft Windows.",
+      "descriptionFa": "گوگل کروم یک مرورگر وب چند پلتفرمی است که توسط گوگل توسعه یافته است. این مرورگر برای اولین بار در سال 2008 برای مایکروسافت ویندوز منتشر شد و اکنون محبوب‌ترین مرورگر جهان محسوب می‌شود.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/250px-Google_Chrome_icon_%28September_2014%29.svg.png",
+      "downloadLink": "#",
+      "requirements": "Windows 10/11, macOS 10.15+, Linux",
+      "tags": ["web browser", "google", "internet", "fast"],
+      "featured": true,
+      "rating": 4.7,
+      "downloads": 5200000,
+      "language": "Multilingual",
+      "detailedDescription": "Google Chrome is a fast, secure, and free web browser built for the modern web. Chrome syncs bookmarks across all your devices, fills out forms automatically, and so much more.",
+      "softwareInformation": {
+        "developer": "Google LLC",
+        "license": "Freeware",
+        "architecture": "64-bit",
+        "fileFormat": "EXE/DMG",
+        "fileSize": "1.2 GB",
+        "releaseDate": "2024-11-26"
+      },
+      "downloadVersions": [
+        {
+          "name": "Google Chrome 131.0.6778.86 Windows x64",
+          "parts": [{ "part": 1, "size": "1.2 GB", "link": "#" }]
+        },
+        {
+          "name": "Google Chrome 131.0.6778.86 Portable",
+          "parts": [{ "part": 1, "size": "285.6 MB", "link": "#" }]
+        },
+        {
+          "name": "Google Chrome 131.0.6778.86 macOS",
+          "parts": [{ "part": 1, "size": "234.8 MB", "link": "#" }]
+        }
+      ],
+      "features": [
+        "Fast and secure browsing",
+        "Built-in Google services integration",
+        "Extensive extension library",
+        "Cross-device synchronization",
+        "Advanced security features",
+        "Developer tools",
+        "Automatic updates",
+        "Incognito mode"
+      ],
+      "systemRequirements": {
+        "windows": {
+          "os": "Windows 10 or later",
+          "processor": "Intel Pentium 4 or later",
+          "memory": "4 GB RAM",
+          "storage": "350 MB available space",
+          "graphics": "128 MB graphics memory",
+          "display": "1024 x 768 minimum resolution"
+        }
+      },
+      "changelog": [
+        "Enhanced security and privacy features",
+        "Improved performance and speed",
+        "New tab organization features",
+        "Updated V8 JavaScript engine",
+        "Bug fixes and stability improvements"
+      ]
+    },
+    {
+      "id": "mozilla-firefox",
+      "name": "Mozilla Firefox",
+      "fullName": "Mozilla Firefox 132.0.2 ESR + Portable",
+      "version": "132.0.2",
+      "category": "browsers",
+      "description": "Mozilla Firefox is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.",
+      "descriptionFa": "موزیلا فایرفاکس یک مرورگر وب رایگان و متن‌باز است که توسط بنیاد موزیلا و شرکت تابعه آن، شرکت موزیلا توسعه یافته است. این مرورگر به دلیل حفظ حریم خصوصی و امنیت بالا شناخته می‌شود.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/250px-Firefox_logo%2C_2019.svg.png",
+      "downloadLink": "#",
+      "requirements": "Windows 10/11, macOS 10.15+, Linux",
+      "tags": ["web browser", "mozilla", "privacy", "open source"],
+      "featured": false,
+      "rating": 4.6,
+      "downloads": 1850000,
+      "language": "Multilingual",
+      "detailedDescription": "Firefox is more than a browser. It's a whole family of products designed to keep you safer and smarter online. Firefox blocks over 2000 trackers by default and is backed by a non-profit that fights for your rights online.",
+      "softwareInformation": {
+        "developer": "Mozilla Foundation",
+        "license": "Mozilla Public License",
+        "architecture": "64-bit",
+        "fileFormat": "EXE/DMG",
+        "fileSize": "56.8 MB",
+        "releaseDate": "2024-11-12"
+      },
+      "downloadVersions": [
+        {
+          "name": "Mozilla Firefox 132.0.2 Windows x64",
+          "parts": [{ "part": 1, "size": "56.8 MB", "link": "#" }]
+        },
+        {
+          "name": "Mozilla Firefox 132.0.2 ESR",
+          "parts": [{ "part": 1, "size": "58.2 MB", "link": "#" }]
+        },
+        {
+          "name": "Mozilla Firefox 132.0.2 Portable",
+          "parts": [{ "part": 1, "size": "89.4 MB", "link": "#" }]
+        }
+      ],
+      "features": [
+        "Enhanced tracking protection",
+        "Private browsing mode",
+        "Customizable interface",
+        "Add-ons and extensions",
+        "Cross-platform sync",
+        "Developer tools",
+        "Picture-in-picture mode",
+        "Password manager"
+      ],
+      "systemRequirements": {
+        "windows": {
+          "os": "Windows 10 or later",
+          "processor": "Pentium 4 or newer",
+          "memory": "512 MB RAM",
+          "storage": "200 MB available space",
+          "graphics": "Any graphics card",
+          "display": "1024 x 768 minimum resolution"
+        }
+      },
+      "changelog": [
+        "Improved privacy protection",
+        "Enhanced performance",
+        "New security features",
+        "Updated user interface",
+        "Bug fixes and stability improvements"
+      ]
+    },
+    {
+      "id": "winrar",
+      "name": "WinRAR",
+      "fullName": "WinRAR 7.01 Final + Portable",
+      "version": "7.01",
+      "category": "utilities",
+      "description": "WinRAR is a powerful archive manager. It can backup your data and reduce the size of email attachments.",
+      "descriptionFa": "وین‌رار یک مدیر آرشیو قدرتمند است. این نرم‌افزار می‌تواند از داده‌های شما پشتیبان‌گیری کند و اندازه پیوست‌های ایمیل را کاهش دهد. وین‌رار از فرمت‌های مختلف فشرده‌سازی پشتیبانی می‌کند.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/WinRAR_icon.png/250px-WinRAR_icon.png",
+      "downloadLink": "#",
+      "requirements": "Windows 7/8/10/11",
+      "tags": ["compression", "archive", "zip", "rar"],
+      "featured": false,
+      "rating": 4.5,
+      "downloads": 980000,
+      "language": "Multilingual",
+      "detailedDescription": "WinRAR is a Windows data compression tool that focuses on the RAR and ZIP data compression formats for all Windows users. Supports RAR, ZIP, CAB, ARJ, LZH, TAR, GZip, UUE, ISO, BZIP2, Z and 7-Zip.",
+      "softwareInformation": {
+        "developer": "win.rar GmbH",
+        "license": "Shareware",
+        "architecture": "64-bit",
+        "fileFormat": "EXE",
+        "fileSize": "3.2 MB",
+        "releaseDate": "2024-08-12"
+      },
+      "downloadVersions": [
+        {
+          "name": "WinRAR 7.01 Final x64",
+          "parts": [{ "part": 1, "size": "3.2 MB", "link": "#" }]
+        },
+        {
+          "name": "WinRAR 7.01 Portable",
+          "parts": [{ "part": 1, "size": "4.8 MB", "link": "#" }]
+        }
+      ],
+      "features": [
+        "Complete support for RAR and ZIP archives",
+        "Highly sophisticated, original compression algorithm",
+        "Special compression algorithm optimized for multimedia files",
+        "Shell integration including drag-and-drop facility",
+        "Command line interface",
+        "Non RAR archives (CAB, ARJ, LZH, TAR, GZ, ACE, UUE, BZ2, JAR, ISO, 7Z, XZ, Z)",
+        "Solid archiving",
+        "Authenticity verification (registered version only)"
+      ],
+      "systemRequirements": {
+        "windows": {
+          "os": "Windows 7/8/10/11",
+          "processor": "Intel compatible",
+          "memory": "128 MB RAM",
+          "storage": "5 MB available space",
+          "graphics": "Any graphics card",
+          "display": "800 x 600 minimum resolution"
+        }
+      },
+      "changelog": [
+        "Improved RAR5 compression",
+        "Enhanced security features",
+        "Better Unicode support",
+        "Performance optimizations",
+        "Bug fixes and improvements"
+      ]
+    },
+    {
+      "id": "vlc-media-player",
+      "name": "VLC Media Player",
+      "fullName": "VLC Media Player 3.0.20 + Portable",
+      "version": "3.0.20",
+      "category": "multimedia",
+      "description": "VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files.",
+      "descriptionFa": "وی‌ال‌سی یک پخش‌کننده چندرسانه‌ای رایگان و متن‌باز است که اکثر فایل‌های چندرسانه‌ای را پخش می‌کند. این نرم‌افزار بدون نیاز به کدک‌های اضافی کار می‌کند و از فرمت‌های مختلف صوتی و تصویری پشتیبانی می‌کند.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/250px-VLC_Icon.svg.png",
+      "downloadLink": "#",
+      "requirements": "Windows 7/8/10/11, macOS, Linux",
+      "tags": ["media player", "video", "audio", "free"],
+      "featured": false,
+      "rating": 4.8,
+      "downloads": 3200000,
+      "language": "Multilingual",
+      "detailedDescription": "VLC media player is a highly portable multimedia player for various audio and video formats, including MPEG-1, MPEG-2, MPEG-4, DivX, MP3, OGG, and many more as well as DVDs, VCDs, and various streaming protocols.",
+      "softwareInformation": {
+        "developer": "VideoLAN Organization",
+        "license": "GPL-2.0",
+        "architecture": "64-bit",
+        "fileFormat": "EXE/DMG",
+        "fileSize": "41.2 MB",
+        "releaseDate": "2023-06-10"
+      },
+      "downloadVersions": [
+        {
+          "name": "VLC Media Player 3.0.20 Windows x64",
+          "parts": [{ "part": 1, "size": "41.2 MB", "link": "#" }]
+        },
+        {
+          "name": "VLC Media Player 3.0.20 Portable",
+          "parts": [{ "part": 1, "size": "52.8 MB", "link": "#" }]
+        },
+        {
+          "name": "VLC Media Player 3.0.20 macOS",
+          "parts": [{ "part": 1, "size": "48.6 MB", "link": "#" }]
+        }
+      ],
+      "features": [
+        "Plays everything - Files, Discs, Webcams, Devices and Streams",
+        "Plays most codecs with no codec packs needed",
+        "Runs on all platforms",
+        "Completely Free, no spyware, no ads and no user tracking",
+        "Can do media conversion and streaming",
+        "Advanced features for power users",
+        "Subtitle support",
+        "Audio and video filters"
+      ],
+      "systemRequirements": {
+        "windows": {
+          "os": "Windows 7 SP1/8/10/11",
+          "processor": "Pentium 4 or equivalent",
+          "memory": "512 MB RAM",
+          "storage": "100 MB available space",
+          "graphics": "Any graphics card",
+          "display": "800 x 600 minimum resolution"
+        }
+      },
+      "changelog": [
+        "Security fixes",
+        "Improved codec support",
+        "Better subtitle handling",
+        "Performance improvements",
+        "Bug fixes and stability enhancements"
+      ]
+    },
+    {
+      "id": "microsoft-office-2021",
+      "name": "Microsoft Office 2021",
+      "fullName": "Microsoft Office Professional Plus 2021 + Activator",
+      "version": "2021",
+      "category": "office",
+      "description": "Microsoft Office 2021 is a suite of productivity applications including Word, Excel, PowerPoint, and more.",
+      "descriptionFa": "مایکروسافت آفیس 2021 مجموعه‌ای از برنامه‌های بهره‌وری شامل ورد، اکسل، پاورپوینت و موارد دیگر است. این نسخه شامل ویژگی‌های جدید و بهبودهای عملکردی متعددی نسبت به نسخه‌های قبلی است.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/250px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png",
+      "downloadLink": "#",
+      "requirements": "Windows 10/11",
+      "tags": ["office suite", "microsoft", "productivity", "word", "excel"],
+      "featured": true,
+      "rating": 4.7,
+      "downloads": 2100000,
+      "language": "Multilingual",
+      "detailedDescription": "Microsoft Office Professional Plus 2021 includes the robust Office desktop apps you're familiar with, like Word, PowerPoint, Excel, Outlook, and Teams. Get things done with or without an internet connection.",
+      "softwareInformation": {
+        "developer": "Microsoft Corporation",
+        "license": "Commercial",
+        "architecture": "64-bit",
+        "fileFormat": "ISO",
+        "fileSize": "4.2 GB",
+        "releaseDate": "2021-10-05"
+      },
+      "downloadVersions": [
+        {
+          "name": "Microsoft Office Professional Plus 2021 x64",
+          "parts": [
+            { "part": 1, "size": "1 GB", "link": "#" },
+            { "part": 2, "size": "1 GB", "link": "#" },
+            { "part": 3, "size": "1 GB", "link": "#" },
+            { "part": 4, "size": "1 GB", "link": "#" },
+            { "part": 5, "size": "200 MB", "link": "#" }
+          ]
+        },
+        {
+          "name": "Microsoft Office 2021 Home & Student",
+          "parts": [
+            { "part": 1, "size": "1.5 GB", "link": "#" },
+            { "part": 2, "size": "1.5 GB", "link": "#" },
+            { "part": 3, "size": "800 MB", "link": "#" }
+          ]
+        }
+      ],
+      "features": [
+        "Word, Excel, PowerPoint, Outlook, OneNote, Access, Publisher",
+        "Enhanced collaboration features",
+        "Improved performance and reliability",
+        "New chart types and data analysis tools",
+        "Advanced security and compliance features",
+        "Cloud integration with OneDrive",
+        "Real-time co-authoring",
+        "AI-powered writing assistance"
+      ],
+      "systemRequirements": {
+        "windows": {
+          "os": "Windows 10 or Windows 11",
+          "processor": "1.6 GHz or faster, 2-core",
+          "memory": "4 GB RAM (64-bit)",
+          "storage": "4 GB available disk space",
+          "graphics": "DirectX 9 or later",
+          "display": "1280 x 768 screen resolution"
+        }
+      },
+      "changelog": [
+        "New collaboration features in Teams",
+        "Enhanced Excel data types",
+        "Improved PowerPoint design ideas",
+        "Better Outlook search and organization",
+        "Security and performance improvements"
+      ]
+    }
+  ]
+}
