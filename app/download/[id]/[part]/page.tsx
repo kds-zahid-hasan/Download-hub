@@ -51,8 +51,11 @@ export default function DownloadPage({ params }: DownloadPageProps) {
     } else {
       setIsRedirecting(true)
       // Redirect to the actual download link after countdown
-      window.open(part.link, "_blank")
-      window.location.href = part.link;
+      //window.open(part.link, "_blank")
+
+      // Open in same tab
+      //window.location.href = part.link;
+      window.open(part.link, "_self");
     }
   }, [countdown, part.link])
 
